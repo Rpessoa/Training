@@ -1,0 +1,9 @@
+##################
+#                #
+# FIRST TRAINING #
+#                #
+##################
+
+Let's start the training!
+So far so good!
+Not that good!
